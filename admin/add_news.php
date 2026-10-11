@@ -12,7 +12,7 @@ $pageTitle = 'Tambah Berita - Admin Praktikum';
 <body>
 <section class="section">
     <div class="container article-body">
-        <span class="eyebrow">Admin Lokal</span>
+        <span class="eyebrow">Admin Lokall</span>
         <h1>Tambah berita</h1>
         <div class="alert alert-success">Halaman ini hanya untuk simulasi lokal dan belum memakai autentikasi admin.</div>
         <form class="card" action="save_news.php" method="post">
