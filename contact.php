@@ -6,7 +6,7 @@ require 'includes/header.php';
 <section class="section">
     <div class="container grid-2">
         <div>
-            <span class="eyebrow">?Contact</span>
+            <span class="eyebrow">Contact</span>
             <h1>Kirim pesan</h1>
             <p class="lead">Form ini mendemonstrasikan proses INSERT ke database dengan prepared statement.</p>
             <?php if ($success): ?>
